@@ -2,10 +2,14 @@
 
 ## Aspiring Data Scientists
 
-* Exploratory Analysis
-  * Descriptive Statistics
-    * center
-    * spread
+* [Exploratory Analysis](https://github.com/EricSchles/analyze_taxi_data/tree/master/exploratory_data_analysis)
+  * [Descriptive Statistics](https://en.wikipedia.org/wiki/Descriptive_statistics)
+    * [High Level - center](https://en.wikipedia.org/wiki/Central_tendency)
+    * [Basics - center](https://statistics.laerd.com/statistical-guides/measures-central-tendency-mean-mode-median.php)
+    * [Python Example - center](https://www.tutorialspoint.com/python/python_measuring_central_tendency.htm)
+    * [High Level - spread](https://en.wikipedia.org/wiki/Statistical_dispersion)
+    * [Basics - spread](https://statistics.laerd.com/statistical-guides/measures-of-spread-range-quartiles.php)
+    * [Python Example - spread](https://www.tutorialspoint.com/python/python_measuring_variance.htm)
   * Basic Data Visualization
     * Histogram
     * Scatter Plot

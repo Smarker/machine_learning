@@ -51,8 +51,8 @@
   * Video
 
 * Applications
- * Anamoly Detection
- * Search
-   * Image
-   * Text
+  * Anamoly Detection
+  * Search
+    * Image
+    * Text
  

@@ -9,7 +9,14 @@
   * Basic Data Visualization
     * Histogram
     * Scatter Plot
-    
+
+* Data Cleaning
+  * Normalization of fields
+  * Filtering
+  * Mathematical Transformation
+  * Text Processing
+  * Image Preprocessing
+  
 * Conformatory Analysis
   * T-Test
   * F-Test

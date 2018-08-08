@@ -49,3 +49,10 @@
   * Geospatial
   * Time Series
   * Video
+
+* Applications
+ * Anamoly Detection
+ * Search
+   * Image
+   * Text
+ 
